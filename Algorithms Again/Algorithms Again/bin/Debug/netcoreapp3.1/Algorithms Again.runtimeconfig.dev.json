@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mattb.SENTINELSYSTEMS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mattb.SENTINELSYSTEMS\\.nuget\\packages"
+    ]
+  }
+}
