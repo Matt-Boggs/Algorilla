@@ -1,0 +1,13 @@
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\Algorilla\Algorilla\bin\Debug\netcoreapp3.1\Algorilla.exe
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\Algorilla\Algorilla\bin\Debug\netcoreapp3.1\Algorilla.deps.json
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\Algorilla\Algorilla\bin\Debug\netcoreapp3.1\Algorilla.runtimeconfig.json
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\Algorilla\Algorilla\bin\Debug\netcoreapp3.1\Algorilla.runtimeconfig.dev.json
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\Algorilla\Algorilla\bin\Debug\netcoreapp3.1\Algorilla.dll
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\Algorilla\Algorilla\bin\Debug\netcoreapp3.1\Algorilla.pdb
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\Algorilla\Algorilla\obj\Debug\netcoreapp3.1\Algorilla.csprojAssemblyReference.cache
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\Algorilla\Algorilla\obj\Debug\netcoreapp3.1\Algorilla.AssemblyInfoInputs.cache
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\Algorilla\Algorilla\obj\Debug\netcoreapp3.1\Algorilla.AssemblyInfo.cs
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\Algorilla\Algorilla\obj\Debug\netcoreapp3.1\Algorilla.csproj.CoreCompileInputs.cache
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\Algorilla\Algorilla\obj\Debug\netcoreapp3.1\Algorilla.dll
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\Algorilla\Algorilla\obj\Debug\netcoreapp3.1\Algorilla.pdb
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\Algorilla\Algorilla\obj\Debug\netcoreapp3.1\Algorilla.genruntimeconfig.cache
