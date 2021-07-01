@@ -1,0 +1,13 @@
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\EvenMoreAlgorithms\EvenMoreAlgorithms\bin\Debug\netcoreapp3.1\EvenMoreAlgorithms.exe
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\EvenMoreAlgorithms\EvenMoreAlgorithms\bin\Debug\netcoreapp3.1\EvenMoreAlgorithms.deps.json
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\EvenMoreAlgorithms\EvenMoreAlgorithms\bin\Debug\netcoreapp3.1\EvenMoreAlgorithms.runtimeconfig.json
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\EvenMoreAlgorithms\EvenMoreAlgorithms\bin\Debug\netcoreapp3.1\EvenMoreAlgorithms.runtimeconfig.dev.json
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\EvenMoreAlgorithms\EvenMoreAlgorithms\bin\Debug\netcoreapp3.1\EvenMoreAlgorithms.dll
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\EvenMoreAlgorithms\EvenMoreAlgorithms\bin\Debug\netcoreapp3.1\EvenMoreAlgorithms.pdb
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\EvenMoreAlgorithms\EvenMoreAlgorithms\obj\Debug\netcoreapp3.1\EvenMoreAlgorithms.csprojAssemblyReference.cache
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\EvenMoreAlgorithms\EvenMoreAlgorithms\obj\Debug\netcoreapp3.1\EvenMoreAlgorithms.AssemblyInfoInputs.cache
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\EvenMoreAlgorithms\EvenMoreAlgorithms\obj\Debug\netcoreapp3.1\EvenMoreAlgorithms.AssemblyInfo.cs
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\EvenMoreAlgorithms\EvenMoreAlgorithms\obj\Debug\netcoreapp3.1\EvenMoreAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\EvenMoreAlgorithms\EvenMoreAlgorithms\obj\Debug\netcoreapp3.1\EvenMoreAlgorithms.dll
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\EvenMoreAlgorithms\EvenMoreAlgorithms\obj\Debug\netcoreapp3.1\EvenMoreAlgorithms.pdb
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\EvenMoreAlgorithms\EvenMoreAlgorithms\obj\Debug\netcoreapp3.1\EvenMoreAlgorithms.genruntimeconfig.cache

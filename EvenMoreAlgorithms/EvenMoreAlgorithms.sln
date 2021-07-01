@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenMoreAlgorithms", "EvenMoreAlgorithms\EvenMoreAlgorithms.csproj", "{6E4A2664-D460-4873-B16E-B0C8BF9DBBEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E4A2664-D460-4873-B16E-B0C8BF9DBBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4A2664-D460-4873-B16E-B0C8BF9DBBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4A2664-D460-4873-B16E-B0C8BF9DBBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4A2664-D460-4873-B16E-B0C8BF9DBBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B4292AF-0681-476A-92AC-8EA6EF473171}
+	EndGlobalSection
+EndGlobal
